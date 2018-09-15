@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Visit A City</string>
+    <string name="app_sight">SIGHT</string>
+    <string name="app_things">THINGS TO DO</string>
+    <string name="app_map">MAP</string>
+    <string name="app_tips">tips</string>
+</resources>
